@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20924
-Fork on GitHub6462
+
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A passionate tech lover,cybersecurity enthusiast.</h3>
 
